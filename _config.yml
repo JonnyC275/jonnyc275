@@ -3,4 +3,4 @@ description: Catalog traction tests and their results for companies in various i
 name: Hank Quinlan, Horrible Cop
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
