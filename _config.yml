@@ -1,6 +1,5 @@
-title: Traction Tests - A Compendium of Channel Experiments
-description: Catalog traction tests and their results for companies in various industries
-name: Hank Quinlan, Horrible Cop
+title: Traction Tests 
+description: A Growth Hacker's Compendium of Channel Experiments
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-cayman
