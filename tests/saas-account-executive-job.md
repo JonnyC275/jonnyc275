@@ -16,9 +16,9 @@ I used the Profit 500, Inc 5000, and Angel List to build a lead list of the most
 I would use the lists to first find the software companies, then I would research each company to decide if I'd want to work there.
 
 Questions I was trying to answer:
-	1. Is the space, product, problem interesting to me? (*Look up their website, read through their material and see if I "get it"*)
-	2. Is the company financially healthy, are people happy working there? (*Glassdoor, AngelList*)
-	3. Is the pay competitive? (*Glassdoor*)
+1. Is the space, product, problem interesting to me? (*Look up their website, read through their material and see if I "get it"*)
+2. Is the company financially healthy, are people happy working there? (*Glassdoor, AngelList*)
+3. Is the pay competitive? (*Glassdoor*)
 
 Then I paid a guy on Upwork $30 to research their VP Sales, CMO, whoever was in charge of sales, so I could reach out to them.
 
