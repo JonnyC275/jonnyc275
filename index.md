@@ -8,10 +8,10 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 # Traction Channels
 
 ## Sales
-  * [Saas Job Hunt](https://www.tractiontests.com/tests/saas-account-executive-job)
+* [Saas Job Hunt](https://www.tractiontests.com/tests/saas-account-executive-job)
 
 ## Business Development
-  * [Securing Two Distributors](https://www.tractiontests.com/tests/biz-dev-cpg-brand)
+* [Securing Two Distributors](https://www.tractiontests.com/tests/biz-dev-cpg-brand)
 
 ## Existing Platforms
 
