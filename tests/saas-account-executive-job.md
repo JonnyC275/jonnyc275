@@ -6,7 +6,7 @@ description: Sales
 # Metrics
 * Time Required: about 2 hours per day
 * Total Time: 58 days
-* Cost Per Acquisition: $3,030 (includes travel, tools and labor)
+* Cost Per Acquisition: $750 (includes travel, tools and labor)
 * Customer Lifetime Value: a job
 
 # Summary
