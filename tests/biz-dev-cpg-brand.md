@@ -23,8 +23,11 @@ I started calling them to see about getting a product listed with them. My scrip
 One of the first guys I spoke with was super helpful but caught me off-guard…
 
 >Oh hey, are you going to be coming to the trade show coming up?
+
 *Which one was that again?*
+
 >PIJAC this weekend!
+
 *Of course I'll be there! I'll swing by your booth to say hi*
 
 I hung up the phone and told my fiancée we were going to this show, that I hadn't even known existed a few minutes before.
@@ -72,9 +75,13 @@ But it wouldn't be that simple...
 # Follow up, follow up, and more follow up
 
 >“Oh we’re preparing for Q4, just focusing on re-stocking current SKUs.”
+
 >“Sorry, she’s not in… can I take a message?”
+
 >“He’s not here but how about I take your number and get back to you?”
+
 >“You’re more expensive than Bargain Bin Junk Brand, we’re not interested.”
+
 >“You’re competing with one of our better brands, we can’t take you on.”
 
 I’d call, follow up with email, leave voicemails, ask for different employees to speak with, and repeat the process with each distributor.
