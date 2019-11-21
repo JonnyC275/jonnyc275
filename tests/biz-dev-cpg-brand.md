@@ -123,7 +123,7 @@ What it took to close that deal? WHILE I was running the rest of the business an
 
 **234 days from start to finish. 7 months and 21 days.**
 
-It was really tough to close it, but now we’ll be available across the country and have access to their hundreds of accounts.
+It was really tough to close it, and a few months afterwards we ended up going with a different distributor that offered us better terms and more listings.
 
 # Lessons Learned
 
@@ -144,7 +144,7 @@ Even better, the retail side of our business is what got us noticed by the compa
 
 ## It Takes More Time and Money than You Think
 
-It took about three times longer than I thought to close one deal. I also spent a lot of money on packaging, travel, samples and shipping, etc. That was a risk. I also spent a lot of time on it that detracted from product development, digital marketing, etc. 
+It took about three times longer than I thought to close one deal. I also spent a lot of money on packaging, travel, samples and shipping. That was a big risk for a small company. I also spent a lot of time on it that detracted from product development and digital marketing.
 
 ## Be Relentless
 
