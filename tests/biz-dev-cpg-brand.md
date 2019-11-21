@@ -3,6 +3,12 @@ layout: default
 title: Securing Two Distributors for CPG Brand
 description: Business Development
 ---
+# Metrics
+* Time Required: about 30 minutes per day
+* Total Time: 1st deal @ 4+ months, 2nd @ 7+ months
+* Cost Per Acquisition: $1,577 (includes travel, tools and labor)
+* Customer Lifetime Value: $x00,000
+
 # Background
 I launched my brand with one product in June 2015, through Amazon and our own website. We had some good results and early traction, managed to get up to $8-12k/month fairly quickly. By late 2015, I started thinking seriously about how to get to the next level.
 
