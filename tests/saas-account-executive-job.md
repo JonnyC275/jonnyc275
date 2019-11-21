@@ -27,27 +27,27 @@ He also provided me with their LinkedIn link so right before sending the emails,
 Then I imported the lead list into Close.io and started sending cold emails (tracking open, click, and reply rates).
 
 ## Intro Email Template #1 — 70% open, 42% reply
->**SUBJECT:** Life at {{COMPANY}}?
+>**SUBJECT:** Life at *COMPANY*?
 >
->Hi {{FIRST NAME}},
+>Hi *FIRST NAME*,
 >
->Not sure if you're the right person to speak with, please let me know if I'm off the mark here. {{OPTIONAL: How you found them ie. "Found you on LinkedIn/the Profit 500"}}
+>Not sure if you're the right person to speak with, please let me know if I'm off the mark here. *OPTIONAL: How you found them ie. "Found you on LinkedIn/the Profit 500"*
 >
->What {{COMPANY}} is doing for {{CUSTOMER PROFILE}} in the {{COMPANY INDUSTRY}} space is very interesting. {{OPTIONAL: 1-2 sentences about the current state of and future of their industry, if you actually know a bit about it}}
+>What *COMPANY* is doing for *CUSTOMER PROFILE* in the *COMPANY INDUSTRY* space is very interesting. *OPTIONAL: 1-2 sentences about the current state of and future of their industry, if you actually know a bit about it*
 >
->I'm an entrepreneur/B2B sales guy with experience in tech, and I was hoping to speak with you to ask a few questions about working at {{COMPANY}} (culture, sales cycle, etc). I'm thinking about applying but wanted to learn a bit more first.
+>I'm an entrepreneur/B2B sales guy with experience in tech, and I was hoping to speak with you to ask a few questions about working at *COMPANY* (culture, sales cycle, etc). I'm thinking about applying but wanted to learn a bit more first.
 >
 >Would you be available tomorrow for a short call?
 
 ## Intro Email Template #2 — 61% open, 31% reply
->**SUBJECT:** {{COMPANY}} question
->Hi {{FIRST NAME}},
+>**SUBJECT:** *COMPANY* question
+>Hi *FIRST NAME*,
 >
->I know I'm aiming a bit up the totem pole at {{COMPANY}}, so let me know if I'm off the mark here.
+>I know I'm aiming a bit up the totem pole at *COMPANY*, so let me know if I'm off the mark here.
 >
 >I'm an army veteran, entrepreneur, and B2B sales guy with experience in tech, based in Canada.
 >
->What {{COMPANY}} is doing is very interesting {{OPTIONAL: Expand here on what they do and what you think of the industry}}.
+>What *COMPANY* is doing is very interesting *OPTIONAL: Expand here on what they do and what you think of the industry*.
 >
 >Do you have any outside/remote roles for your Account Executives?
 >
@@ -56,11 +56,11 @@ Then I imported the lead list into Close.io and started sending cold emails (tra
 >If so would you be available tomorrow for a short call?
 
 ## Follow-Up Email — 55% open, 27% reply
->Hi {{FIRST NAME}},
+>Hi *FIRST NAME*,
 >
 >I just wanted to follow up with you on my last email.
 >
->{{OPTIONAL: I'm interested in applying at {{COMPANY}} but was hoping to speak with you to learn a bit more about the company's culture, team, and sales process prior to applying.}}
+>*OPTIONAL: I'm interested in applying at COMPANY but was hoping to speak with you to learn a bit more about the company's culture, team, and sales process prior to applying.*
 >
 >Do you have time for a quick call tomorrow?
 
