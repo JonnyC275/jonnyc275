@@ -9,22 +9,40 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 
 ## Sales
   * [Saas Job Hunt](https://www.tractiontests.com/tests/saas-account-executive-job)
+
 ## Business Development
   * [Securing Two Distributors](https://www.tractiontests.com/tests/biz-dev-cpg-brand)
+
 ## Existing Platforms
+
 ## Trade Shows
+
 ## Content Marketing
+
 ## Search Engine Marketing
+
 ## Social & Display Ads
+
 ## Unconventional PR
+
 ## Public Relations
+
 ## Search Engine Optimization
+
 ## Email Marketing
+
 ## Targeting Blogs
+
 ## Affiliate Programs
+
 ## Offline Ads
+
 ## Offline Events
+
 ## Engineering as Marketing
+
 ## Speaking Engagements
+
 ## Community Building
+
 ## Viral Marketing
