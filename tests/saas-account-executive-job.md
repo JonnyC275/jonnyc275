@@ -99,10 +99,7 @@ Insurance and financial SaaS company, remote role, recently funded. I got along 
 # Lessons Learned
 
 * Hustle pays off
-
 * Job applications get better response rates but lower pay positions
-
 * Bigger companies = more junior positions
 * Smaller companies considered me for more senior roles way more than larger companies
-
 * Find a manager willing to take a risk on you and you can short circuit the career path if you have some semi-related experience. Obviously you should have some sales experience to get into a closing role, it's fairly unlikely to leap into an enterprise AE role right off the bat.
