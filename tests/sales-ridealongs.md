@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Securing Two Distributors for CPG Brand
-description: Business Development
+title: Ridealongs with Distributors
+description: Sales
 ---
 *NOTE: The data below covers only about half of the ridealongs I did, because I forgot to collect the information for my other trips.
 
