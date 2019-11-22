@@ -12,6 +12,7 @@ description: Business Development
 * Cost Per Acquisition: $150 (includes travel, samples, materials, discounts, and labor)
 * Payback Period: ~11 months
 * Customer Lifetime Value: $669
+* Customers Acquired: 58
 
 # Background
 
