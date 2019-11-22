@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ridealongs with Distributors
+title: Ridealongs with Distributor Sales Reps
 description: Sales
 ---
 *NOTE: The data below covers only about half of the ridealongs I did, because I forgot to collect the information for my other trips.
