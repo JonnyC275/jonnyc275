@@ -6,6 +6,7 @@ description: Business Development
 # Metrics
 * Time Required: about 30 minutes per day
 * Total Time: 1st deal @ 4+ months, 2nd @ 7+ months
+* Total Cost: $3,154
 * Cost Per Acquisition: $1,577 (includes travel, tools and labor)
 * Customer Lifetime Value: $x00,000
 
