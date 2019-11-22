@@ -58,7 +58,6 @@ One of the biggest limiting factors is how quickly your customer acquisition str
 In our case, because our brand only had one product at the time, our payback period was 11 months. The average initial order a store could place for our brand was about $100. To really make this channel work and pay off quickly, we'd need it up over $300 at a minimum.
 
 # Final Score
-Outcome | Count | %
-|---|---|---|
-Listed | 58 | 82%
-Not Interested | 13 | 18%
+|---
+| Listed | 58 | 82%
+| Not Interested | 13 | 18%
