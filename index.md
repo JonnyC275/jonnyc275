@@ -7,12 +7,12 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 
 # Traction Channels
 
+## Business Development
+* [Securing Two Distributors](https://www.tractiontests.com/tests/biz-dev-cpg-brand)
+
 ## Sales
 * [SaaS Sales Job Hunt](https://www.tractiontests.com/tests/saas-account-executive-job)
 * [Ridealongs for Wholesale](https://www.tractiontests.com/tests/sales-ridealongs)
-
-## Business Development
-* [Securing Two Distributors](https://www.tractiontests.com/tests/biz-dev-cpg-brand)
 
 ## Existing Platforms
 
