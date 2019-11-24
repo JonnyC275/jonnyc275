@@ -12,6 +12,7 @@ description: Sales
 * Cost Per Acquisition: $150 (includes travel, samples, materials, discounts, and labor)
 * Payback Period: ~11 months
 * Customer Lifetime Value: $669
+* CLV to CAC: 4.4x
 * Customers Acquired: 58
 
 # Background
@@ -59,6 +60,6 @@ In our case, because our brand only had one product at the time, our payback per
 
 # Final Score
 | Category | Count | % of Total |
-|-------|--------|---------|
+|-------|:--------:|:---------:|
 | Product Listed | 58 | 82% |
 | Not Interested | 13 | 18% |
