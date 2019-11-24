@@ -61,3 +61,9 @@ In our case, because our brand only had one product at the time, our payback per
 |---
 | Listed | 58 | 82%
 | Not Interested | 13 | 18%
+
+
+| Category | Count | % of Total |
+|-------|--------|---------|
+| Product Listed | 58 | 82% |
+| Not Interested | 13 | 18% |
