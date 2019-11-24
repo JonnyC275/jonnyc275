@@ -15,6 +15,7 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 * [Ridealongs for Wholesale](https://www.tractiontests.com/tests/sales-ridealongs)
 
 ## Existing Platforms
+* [Selling on Amazon](https://www.tractiontests.com/tests/platforms-amazon-cpg-brand)
 
 ## Trade Shows
 * [Consumer Trade Show](https://www.tractiontests.com/tests/trade-shows-b2c-cpg-brand)
