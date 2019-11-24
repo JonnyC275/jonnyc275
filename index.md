@@ -17,6 +17,7 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 ## Existing Platforms
 
 ## Trade Shows
+* [Consumer Trade Show](https://www.tractiontests.com/tests/trade-shows-b2c-cpg-brand)
 
 ## Content Marketing
 
