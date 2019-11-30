@@ -23,6 +23,7 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 ## Content Marketing
 
 ## Search Engine Marketing
+* [Google Ads for Marketplace Startup](https://www.tractiontests.com/tests/sem-google-marketplace-startup)
 
 ## Social & Display Ads
 
