@@ -21,6 +21,7 @@ I've sold [software](https://www.tractiontests.com/tests/saas-account-executive-
 * [Consumer Trade Show](https://www.tractiontests.com/tests/trade-shows-b2c-cpg-brand)
 
 ## Content Marketing
+* [Blogging for B2C Brand](https://www.tractiontests.com/tests/content-b2c-brand)
 
 ## Search Engine Marketing
 * [Google Ads for Marketplace Startup](https://www.tractiontests.com/tests/sem-google-marketplace-startup)
